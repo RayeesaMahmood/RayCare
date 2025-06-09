@@ -10,7 +10,7 @@
   const firebaseConfig = {
     apiKey: "AIzaSyBo0BpS3IhefRS7Wj1-HHnmWeSMB5brstc",
     authDomain: "raycare-908e9.firebaseapp.com",
-    databaseURL: "https://raycare-908e9-default-rtdb.firebaseio.com",
+    databaseURL: "https://console.firebase.google.com/u/0/project/raycare-908e9/database/raycare-908e9-default-rtdb/data/~2F",
     projectId: "raycare-908e9",
     storageBucket: "raycare-908e9.firebasestorage.app",
     messagingSenderId: "712230082136",
